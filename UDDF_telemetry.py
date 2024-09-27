@@ -1,5 +1,5 @@
 import os
-
+#from pyautogui import typewrite
 import pandas as pd
 import csv
 import UDDF_CSV_Reader
@@ -34,6 +34,7 @@ def main():
 
     
     InputVar=Parameters.get("DefaultFolder")
+
     Parameters["Folder"]= input(f"Type non-default folder or leave empty as default value of  {InputVar}")
     
     
@@ -49,7 +50,7 @@ def main():
             if file.endswith('.csv'):
                 print(f"[{len(FileList)}] {file}")
                 FileList.append(file)
-
+    
     FileNumber= input(f"Which file is processed or leave empty as default value of [0]")
 
     if FileNumber=="":
