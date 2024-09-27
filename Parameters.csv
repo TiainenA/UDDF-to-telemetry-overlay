@@ -1,0 +1,12 @@
+OutputPath,.\\OverlayImages\\
+DefaultFolder,\\Data\\
+DefaultFile,2024-09-22 Dive1.csv
+ResolutionX,1920
+ResolutionY,1080
+Depth,TRUE
+DepthVariable,depth
+DepthX,10
+DepthY,10
+DepthColor,White
+DepthText,TRUE
+DepthUnit,m

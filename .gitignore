@@ -164,3 +164,4 @@ cython_debug/
 
 # Test data
 Testdata private/
+suttupaperi.py
