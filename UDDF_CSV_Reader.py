@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 
 def TelemetryReader(filepath:str):
-    df = pd.read_csv(filepath)
+    df = pd.read_csv(filepath, sep=';')
     return(df)
 
 
