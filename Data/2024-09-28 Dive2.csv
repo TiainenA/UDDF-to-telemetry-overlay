@@ -1,0 +1,436 @@
+﻿version;ns1:name;id;ns1:name2;ns1:homepage;ns1:version;ns1:mediadata;id3;ns1:firstname;ns1:lastname;id4;ns1:name5;ns1:model;id6;ns1:firstname7;id8;ns1:name9;id10;ns1:name11;ns1:location;ns1:latitude;ns1:longitude;id12;ns1:name13;ns1:o2;ns1:he;id14;id15;ref;ns1:divenumber;ns1:datetime;ns1:leadquantity;ref16;ns1:tankvolume;ns1:tankpressurebegin;ns1:tankpressureend;ns1:depth;ns1:divetime;ref17;ns1:tankpressure;ns1:temperature;ns1:alarm;ns1:greatestdepth;ns1:averagedepth;ns1:diveduration;ns1:para;ns1:ratingvalue;ns1:visibility;ns1:divetrip
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;idp981981328;90;28.9.2024 11:45;7;mix(21/0);15;19812000;9152000;;;;;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;1c6f1b29;90;28.9.2024 11:45;7;mix(21/0);15;19812000;9152000;;;;;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;1.28;0;mix(21/0);19812000;288.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;1.34;20;;19753000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;1.22;31;;;;surface;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;1.13;40;;19702000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;1.34;60;;19625000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;1.57;80;;19547000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;1.96;100;;19504000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;3.11;120;;19430000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;2.6;140;;19321000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;2.93;160;;19259000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;3.01;180;;19181000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;3.82;200;;19104000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.46;220;;19077000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.65;240;;19017000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.53;260;;18954000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.96;280;;18915000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.17;300;;18873000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.34;320;;18797000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.73;340;;18746000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.5;360;;18693000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.82;380;;18616000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.77;400;;18544000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.24;420;;18452000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.22;440;;18399000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.09;460;;18337000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.85;480;;18300000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.86;500;;18258000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.58;520;;18186000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.32;540;;18080000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.32;560;;17958000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.73;580;;17882000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.96;600;;17803000;287.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.97;620;;17746000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.55;640;;17699000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.98;660;;17631000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.67;680;;17592000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.39;700;;17518000;286.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.17;720;;17467000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.69;740;;17455000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.04;760;;17390000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.87;780;;17362000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.46;800;;17294000;287.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.18;820;;17210000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.4;840;;17183000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.78;860;;17084000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.98;880;;17055000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.62;900;;16981000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.3;920;;16929000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.67;940;;16851000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.83;960;;16758000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.35;980;;16681000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.67;1000;;16614000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.4;1020;;16564000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.19;1040;;16502000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.6;1060;;16441000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.71;1080;;16406000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.51;1100;;16353000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.14;1120;;16244000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.1;1140;;16214000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.24;1160;;16159000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.77;1180;;16065000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.84;1200;;16031000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.76;1220;;15988000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.07;1240;;15885000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.37;1260;;15771000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.52;1280;;15674000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.4;1300;;15532000;285.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.53;1320;;15408000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.38;1340;;15316000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.25;1360;;15192000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.52;1380;;15086000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.28;1400;;14989000;283.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.45;1420;;14893000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.79;1440;;14785000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.89;1460;;14660000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;11.08;1480;;14511000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;11.41;1500;;14400000;282.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;11.83;1520;;14263000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;12.5;1540;;14095000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;12.61;1560;;13935000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;11.96;1580;;13814000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;11.29;1600;;13652000;280.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;11.12;1620;;13490000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.98;1640;;13376000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.1;1660;;13274000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.98;1680;;13219000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.23;1700;;13208000;282.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.1;1720;;13189000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.24;1740;;13118000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.66;1760;;13066000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.46;1780;;13010000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.9;1800;;12898000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.27;1820;;12809000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.25;1840;;12730000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.08;1860;;12638000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.75;1880;;12575000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.36;1900;;12524000;283.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.05;1920;;12472000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.3;1940;;12421000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.67;1960;;12392000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.63;1980;;12353000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.55;2000;;12268000;286.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.75;2020;;12216000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.82;2040;;12165000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.14;2060;;12096000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.48;2080;;12061000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.56;2100;;11987000;287.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.28;2120;;11914000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.18;2140;;11832000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.72;2160;;11722000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.62;2180;;11637000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.33;2200;;11576000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.08;2220;;11527000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.42;2240;;11449000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.51;2260;;11354000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.64;2280;;11299000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.77;2300;;11212000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.64;2320;;11124000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.11;2340;;11063000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.77;2360;;10970000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.02;2380;;10894000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;9.14;2400;;10785000;286.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.86;2420;;10665000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.66;2440;;10536000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;8.33;2460;;10452000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;7.57;2480;;10395000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.65;2500;;10322000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;6.22;2520;;10229000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.17;2540;;10161000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.61;2560;;10121000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.17;2580;;10027000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;3.98;2600;;9963000;287.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.31;2620;;9912000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.85;2640;;9861000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.03;2660;;9784000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.59;2680;;9733000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.13;2700;;9653000;288.15;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.85;2720;;9578000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;5.11;2740;;9478000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;4.75;2760;;9309000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;3.64;2780;;9223000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;3.1;2800;;9152000;;;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
+3.2.0;Subsurface Divelog;subsurface;Subsurface Team;http://subsurface-divelog.org/;3;;owner;;;88ef1a64;Suunto Vyper Air;Suunto Vyper Air;idp981981328;Cristian;allbase;Subsurface Divebase;1c6f1b29;Kaukajärvi, Riihiniemi;Kaukajärvi, Riihiniemi;61.472523;23.894749;mix(21/0);air;0.21;0;idp1048837056;idp1048837056;;;;;mix(21/0);15;19812000;9152000;3.12;2817;;;;surface;12.69;7.237;2800;"Kirkasta oli. Vähän kylmää 5 mm märkkärillä. Paljon rapuja.
+
+Tässä oli käännyttävä takaisin kylmyyden takia.";8;;
